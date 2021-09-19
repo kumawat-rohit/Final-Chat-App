@@ -1,0 +1,23 @@
+.container{
+    height: 60%;
+    margin: 5px;
+}
+
+.logo{
+    width: 35px;
+    height: 35px;
+}
+h1{
+    margin: 5px 0px 3px 0px;
+   
+    font-size: 1.2rem;
+}
+
+.message{
+    font-size: 0.8rem;
+    width: 75%;
+}
+
+.btn{
+    width: 16%;
+}
